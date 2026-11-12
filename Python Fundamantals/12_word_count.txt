@@ -1,0 +1,2 @@
+ wordcount :11 Helo from file handlingI am basit ali tariq a softweare engineer
+ wordcount :6 I am currently working at techClan
